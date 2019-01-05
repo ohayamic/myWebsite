@@ -1,0 +1,15 @@
+.navbar {
+  background: #f97300;
+}
+
+/*header style*/
+.bg-img {
+  background-image: url("../images/image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.name {
+  padding: 2em;
+  border-left: 4px solid #00b8e6;
+  height: 300px;
+}
